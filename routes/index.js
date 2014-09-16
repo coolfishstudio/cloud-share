@@ -19,4 +19,4 @@ router.get('/about', function(req, res) {
 // router.post('/opus/insertApp', pagePyApp.insertApp);
 // router.post('/opus/postAnswer', pagePyApp.updateApp);
 
-// module.exports = router;
+module.exports = router;
