@@ -1,4 +1,4 @@
-node_mpdules
+node_modules/
 .routes/module
 .routes/mongo
 .routes/util
